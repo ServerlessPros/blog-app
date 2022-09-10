@@ -1,0 +1,24 @@
+{
+  "name": "@serverlesspros/gatsby",
+  "private": true,
+  "version": "3.10.0",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "@elegantstack/gatsby-theme-flexiblog-minimal-v2": "*",
+    "contentful-schema-blog": "github:ElegantStack/contentful-schema-blog",
+    "dotenv": "^16.0.2",
+    "gatsby": "^4.14.1",
+    "gatsby-source-contentful": "7.4.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
