@@ -31,19 +31,19 @@ module.exports = {
     name: "ServerlessPros",
     description:
       "Our team drives to bring serverless technology to your front door",
-    address: "Charlotte, NC",
-    email: "email@example.com",
+    address: "US",
+    email: "contact@serverlesspros.com",
     phone: "+1 (888) 888-8888",
 
     //Site Social Media Links
     social: [
       {
         name: "Github",
-        url: "https://github.com/gatsbyjs",
+        url: "https://github.com/serverlesspros",
       },
       {
         name: "Twitter",
-        url: "https://twitter.com/gatsbyjs",
+        url: "https://twitter.com/serverlesspros",
       },
       {
         name: "Instagram",
@@ -68,10 +68,6 @@ module.exports = {
       {
         title: "Quick Links",
         items: [
-          {
-            name: "Advertise with us",
-            slug: "/contact",
-          },
           {
             name: "About Us",
             slug: "/about",
